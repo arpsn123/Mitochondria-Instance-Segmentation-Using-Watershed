@@ -1,6 +1,16 @@
 # Mitochondria Instance Segmentation Using Watershed with U-Net
 
-
+![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/Mitochondria-Instance-Segmentation-Using-Watershed?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/arpsn123/Mitochondria-Instance-Segmentation-Using-Watershed?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/arpsn123/Mitochondria-Instance-Segmentation-Using-Watershed)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/Mitochondria-Instance-Segmentation-Using-Watershed)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/Mitochondria-Instance-Segmentation-Using-Watershed)
+![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/Mitochondria-Instance-Segmentation-Using-Watershed)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/Mitochondria-Instance-Segmentation-Using-Watershed)
+![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/Mitochondria-Instance-Segmentation-Using-Watershed)
+![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/Mitochondria-Instance-Segmentation-Using-Watershed)
+![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/Mitochondria-Instance-Segmentation-Using-Watershed?style=social)
+![Maintenance Status](https://img.shields.io/badge/Maintenance-%20Active-green)
 
 ## Overview
 The **Mitochondria Instance Segmentation Using Watershed with U-Net** project aims to address a critical challenge in the field of biological imaging: the accurate segmentation of mitochondria in microscopy images. Mitochondria are often referred to as the powerhouses of the cell due to their role in energy production through oxidative phosphorylation. Their shape, size, and distribution can provide valuable insights into cellular health, metabolism, and disease states.
