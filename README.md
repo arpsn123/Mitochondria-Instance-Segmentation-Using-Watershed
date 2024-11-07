@@ -1,11 +1,6 @@
 # Mitochondria Instance Segmentation Using Watershed with U-Net
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![Keras](https://img.shields.io/badge/Keras-2.4.3-orange.svg)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.5.2-blue.svg)
-![NumPy](https://img.shields.io/badge/NumPy-1.19.5-yellowgreen.svg)
-![scikit-image](https://img.shields.io/badge/scikit--image-0.18.1-lightgrey.svg)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-red.svg)
+
 
 ## Overview
 The **Mitochondria Instance Segmentation Using Watershed with U-Net** project aims to address a critical challenge in the field of biological imaging: the accurate segmentation of mitochondria in microscopy images. Mitochondria are often referred to as the powerhouses of the cell due to their role in energy production through oxidative phosphorylation. Their shape, size, and distribution can provide valuable insights into cellular health, metabolism, and disease states.
@@ -25,6 +20,13 @@ The dataset used in this project consists of high-resolution microscopy images o
 
 ## Tech Stack
 This project utilizes several powerful libraries and frameworks that enable efficient development and implementation of the segmentation model:
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Keras](https://img.shields.io/badge/Keras-2.4.3-orange.svg)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.5.2-blue.svg)
+![NumPy](https://img.shields.io/badge/NumPy-1.19.5-yellowgreen.svg)
+![scikit-image](https://img.shields.io/badge/scikit--image-0.18.1-lightgrey.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-red.svg)
 
 - **Python**: The primary programming language for this project, chosen for its simplicity and extensive ecosystem for data science and machine learning.
 - **Keras**: A high-level neural networks API, built on top of TensorFlow, which provides a user-friendly interface for building, training, and evaluating deep learning models. Keras simplifies the process of creating complex neural network architectures like U-Net.
